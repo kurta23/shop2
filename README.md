@@ -35,3 +35,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 # kurtovic_art_shop
 # shop2
 # shop2
+# shop2
