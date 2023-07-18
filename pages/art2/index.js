@@ -55,7 +55,7 @@ function Art2({ products, bannerData }) {
             </div>
             <div className="tekst">
                 <h1>Originals</h1>
-                <p>Original pieces don't come with fixed prices. <br></br>
+                <p>Original pieces do not come with fixed prices. <br></br>
 Instead,  offer us what you think the artwork is worth and we will settle on a fair price!</p>
             </div>
             <div className="originalss">
