@@ -727,7 +727,7 @@ Link:hover{
 
 @media screen and (max-width:463px){
   .header-art{
-    width: 120vw;
+    width: 100vw;
     height: 120vh;
   }
 }
