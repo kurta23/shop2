@@ -8,6 +8,7 @@ const Layout = ({children}) => {
     <div className='layout'>
       <Head>
         <title>Kurtovic|Art</title>
+        <meta name='description' content='Buy your favorite art prints from Kurtovic art shop' />
       </Head>
       <header>
         <Navbar />
