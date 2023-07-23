@@ -55,8 +55,7 @@ function Art2({ products, bannerData }) {
             </div>
             <div className="tekst">
                 <h1>Originals</h1>
-                <p>Original pieces do not come with fixed prices. <br></br>
-Instead,  offer us what you think the artwork is worth and we will settle on a fair price!</p>
+                <p>In love with the artwork?<br></br>Choose your favorite original here<br></br>Send us your information and we will contact you in the shortest time possible.</p>
             </div>
             <div className="originalss">
                 <div className="jugo">
@@ -65,7 +64,7 @@ Instead,  offer us what you think the artwork is worth and we will settle on a f
                     </div>
                     <div className="proba">
                         <button ref={btn} onClick={buttonClicked3} className="button buttonn">
-                        Make an offer
+                        Buy
                         </button>
                     </div>                    
                 </div>
@@ -75,7 +74,7 @@ Instead,  offer us what you think the artwork is worth and we will settle on a f
                     </div>               
                     <div className="proba">
                         <button ref={btn1} onClick={buttonClicked5} className="button buttonn">
-                        Make an offer
+                        Buy
                         </button>
                     </div>
                 </div>
@@ -85,7 +84,7 @@ Instead,  offer us what you think the artwork is worth and we will settle on a f
                     </div>
                     <div className="proba">
                         <button ref={btn2} onClick={buttonClicked6} className="button buttonn buttonn1">
-                        Make an offer
+                        Buy
                         </button>
                     </div>
                 </div>
@@ -103,7 +102,7 @@ Instead,  offer us what you think the artwork is worth and we will settle on a f
                         </div>
                         
                         <form action="https://formspree.io/f/xknlwddd" method="post">
-                            <input type="hidden" value="Jugo ponuda"></input>
+                            <p>Price: 200€<p>
                             <input type="text" name="Name" placeholder="Full Name" required></input>
                             <input type="email" name="Email" placeholder="Email" required></input>
                             <input type="number" placeholder="Price in EUR" required></input>
@@ -125,7 +124,7 @@ Instead,  offer us what you think the artwork is worth and we will settle on a f
                         </div>
                         
                         <form action="https://formspree.io/f/xknlwddd" method="post">
-                            <input type="hidden" value="Zen ponuda"></input>
+                            <p>Price: 200€<p>
                             <input type="text" name="Name" placeholder="Full Name" required></input>
                             <input type="email" name="Email" placeholder="Email" required></input>
                             <input type="number" placeholder="Price in EUR" required></input>
@@ -146,7 +145,7 @@ Instead,  offer us what you think the artwork is worth and we will settle on a f
                             <Image className="slikica" style={{marginRight: "10px"}} src="/ocaj.jpg" alt="me" width="225.428px" height="300px" />
                         </div>                   
                         <form action="https://formspree.io/f/xknlwddd" method="post">
-                            <input type="hidden" value="Očaj ponuda"></input>
+                            <p>Price: 150€<p>
                             <input type="text" name="Name" placeholder="Full Name" required></input>
                             <input type="email" name="Email" placeholder="Email" required></input>
                             <input type="number" placeholder="Price in EUR" required></input>
