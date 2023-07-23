@@ -7,7 +7,7 @@ function Order() {
         <div>
             <div className="orderr">
                 <h1>Turn your imagination into reality</h1>
-                <p className="order-small-text">Describe your vision or send us an image that inspires you. <br></br> Send us an existing piece you wish to see in our style!</p>
+                <p className="order-small-text">Describe your vision or send us an image that inspires you. </p>
             </div>
             <div className="order-container">
                 <div className="column1">
