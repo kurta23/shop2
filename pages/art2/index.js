@@ -105,7 +105,7 @@ function Art2({ products, bannerData }) {
                             <p>Price: 200€</p>
                             <input type="text" name="Name" placeholder="Full Name" required></input>
                             <input type="email" name="Email" placeholder="Email" required></input>
-                            <input type="number" placeholder="Price in EUR" required></input>
+                        
                             <button  type="submit" id="OrderButton" className="button">Send</button>
                         </form>                     
                     </div>
@@ -127,7 +127,7 @@ function Art2({ products, bannerData }) {
                             <p>Price: 200€</p> 
                             <input type="text" name="Name" placeholder="Full Name" required></input>
                             <input type="email" name="Email" placeholder="Email" required></input>
-                            <input type="number" placeholder="Price in EUR" required></input>
+                            
                             <button  type="submit" id="OrderButton" className="button">Send</button>
                         </form>                     
                     </div>
@@ -148,7 +148,7 @@ function Art2({ products, bannerData }) {
                             <p>Price: 150€</p>
                             <input type="text" name="Name" placeholder="Full Name" required></input>
                             <input type="email" name="Email" placeholder="Email" required></input>
-                            <input type="number" placeholder="Price in EUR" required></input>
+                            
                             <button  type="submit" id="OrderButton" className="button">Send</button>
                         </form>                     
                     </div>
