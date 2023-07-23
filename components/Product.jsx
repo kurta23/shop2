@@ -23,7 +23,7 @@ const Product = ({ product: { image, name, slug, price } }) => {
             <p className="product-price">${price}</p>
             <div className='buttons-container'>
               <Link href={`/product/${slug.current}`}>
-                <button type='button' className='btn-buy-print'>Buy print</button>
+                <button type='button' className='btn-buy-print'>Buy</button>
               </Link>
             </div>
           </div>
