@@ -54,7 +54,7 @@ const Navbar = () => {
 
           <ul ref={desktopNav} className='desktop-nav'>
             <li><p className='logo link-logo'>
-              <Link href="/">Kurtovic|Art</Link>
+              <Link href="/">AnakuArt</Link>
             </p></li>
             <li><Link href="/" >
               <p style={{cursor: "pointer"}} onClick={buttonClicked2}>Home</p>
