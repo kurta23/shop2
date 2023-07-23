@@ -21,9 +21,9 @@ const Home = ({ products, bannerData }) => (
 
     <div className='buy-prints'>
       
-      <h2 className='title'>Prints</h2>
+      <h2 className='title'>Limited Edition Prints</h2>
       <div className='text-buyprints'>
-        <p>Buy your favourite Kurtović artworks in your format of choice, in the highest quality available, for the best price available.</p>
+        <p>Own your own Anaku artwork! Please select your desired artwork.</p>
       </div>
       <div className="row2">
         <div className="col1" style={{marginRight: 20}}>
@@ -42,10 +42,10 @@ const Home = ({ products, bannerData }) => (
     </div>
 
     <div className="buy-originals">
-      <h2 className="title">Originals</h2>
+      <h2 className="title">Original artwork</h2>
       <div className="text-buyprints">
         <p>In love with the artwork? <br></br>
-Get the original one-of-a-kind piece here:
+Own the artist's original here.
 </p>
       </div>
       <div className='skupina-pocetna'>
