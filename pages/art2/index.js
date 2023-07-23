@@ -102,7 +102,7 @@ function Art2({ products, bannerData }) {
                         </div>
                         
                         <form action="https://formspree.io/f/xknlwddd" method="post">
-                            <p Price: 200€></p>
+                            <p>Price: 200€</p>
                             <input type="text" name="Name" placeholder="Full Name" required></input>
                             <input type="email" name="Email" placeholder="Email" required></input>
                             <input type="number" placeholder="Price in EUR" required></input>
@@ -124,7 +124,7 @@ function Art2({ products, bannerData }) {
                         </div>
                         
                         <form action="https://formspree.io/f/xknlwddd" method="post">
-                            <p Price: 200€></p>
+                            <p>Price: 200€</p>
                             <input type="text" name="Name" placeholder="Full Name" required></input>
                             <input type="email" name="Email" placeholder="Email" required></input>
                             <input type="number" placeholder="Price in EUR" required></input>
@@ -145,7 +145,7 @@ function Art2({ products, bannerData }) {
                             <Image className="slikica" style={{marginRight: "10px"}} src="/ocaj.jpg" alt="me" width="225.428px" height="300px" />
                         </div>                   
                         <form action="https://formspree.io/f/xknlwddd" method="post">
-                            <p Price: 150€></p>
+                            <p>Price: 150€</p>
                             <input type="text" name="Name" placeholder="Full Name" required></input>
                             <input type="email" name="Email" placeholder="Email" required></input>
                             <input type="number" placeholder="Price in EUR" required></input>
