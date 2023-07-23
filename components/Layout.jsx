@@ -7,7 +7,7 @@ const Layout = ({children}) => {
   return (
     <div className='layout'>
       <Head>
-        <title>Kurtovic|Art</title>
+        <title>AnakuArt</title>
         <meta name='description' content='Buy your favorite art prints from Kurtovic art shop' />
       </Head>
       <header>
