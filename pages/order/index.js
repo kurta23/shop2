@@ -6,7 +6,7 @@ function Order() {
     return (
         <div>
             <div className="orderr">
-                <h1>Turn your imagination into reality</h1>
+                <h1>Share your vision!</h1>
                 <p className="order-small-text">Describe your vision or send us an image that inspires you. </p>
             </div>
             <div className="order-container">
