@@ -41,7 +41,7 @@ const Navbar = () => {
               </div>
             </li>
             <li>
-                <Link href="/" ><p style={{marginTop: "9px", color:"white", cursor: "pointer"}}>Kurtovic|Art</p></Link>
+                <Link href="/" ><p style={{marginTop: "9px", color:"white", cursor: "pointer"}}>AnakuArt</p></Link>
             </li>
             <li>
               <button type='button'
