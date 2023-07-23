@@ -45,7 +45,7 @@ const Home = ({ products, bannerData }) => (
       <h2 className="title">Original artwork</h2>
       <div className="text-buyprints">
         <p>In love with the artwork? <br></br>
-Own the original here.
+Own the original here. 
 </p>
       </div>
       <div className='skupina-pocetna'>
