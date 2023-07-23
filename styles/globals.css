@@ -11,12 +11,7 @@ body, *, *::before,
   width: 0px;
 }
 
- @media screen and (max-width:415px){
-    .cart-container{
-      width: 375px;
-    padding: 4px;
-    }
-  }
+
 .nav-container {
   background: rgba(0, 0, 0, 0.8);
   height: 44px;
@@ -2098,3 +2093,9 @@ select{
   padding: 0.5rem;
   margin-bottom: 1rem;
 }
+ @media screen and (max-width:415px){
+    .cart-container{
+      width: 375px;
+    padding: 4px;
+    }
+  }
