@@ -41,7 +41,7 @@ const Navbar = () => {
               </div>
             </li>
             <li>
-                <Link href="/" ><p style={{marginTop: "9px", color:"white", cursor: "pointer"}}>AnakuArt</p></Link>
+                <Link href="/" ><p style={{marginTop: "9px", color:"white", cursor: "pointer"}}>AnaKu|Art</p></Link>
             </li>
             <li>
               <button type='button'
@@ -54,7 +54,7 @@ const Navbar = () => {
 
           <ul ref={desktopNav} className='desktop-nav'>
             <li><p className='logo link-logo'>
-              <Link href="/">AnakuArt</Link>
+              <Link href="/">AnaKu|Art</Link>
             </p></li>
             <li><Link href="/" >
               <p style={{cursor: "pointer"}} onClick={buttonClicked2}>Home</p>
