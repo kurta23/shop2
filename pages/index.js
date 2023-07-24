@@ -23,7 +23,7 @@ const Home = ({ products, bannerData }) => (
       
       <h2 className='title'>Limited Edition Prints</h2>
       <div className='text-buyprints'>
-        <p>Own your own Anaku artwork! <br></br> Please select your desired artwork.</p>
+        <p>Own your own AnaKu artwork! <br></br> Please select your desired artwork.</p>
       </div>
       <div className="row2">
         <div className="col1" style={{marginRight: 20}}>
