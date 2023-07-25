@@ -11,7 +11,7 @@ export default async function handler(req, res) {
         payment_method_types: ['card'],
         billing_address_collection: 'auto',
         shipping_address_collection: {
-          allowed_countries: ['HR', 'DE'],
+          allowed_countries: ['HR', 'DE', 'AL', 'AR', 'AU', 'BR', 'CN', 'CY', 'CZ', 'CU', 'EC', 'EG', 'EE', 'FI', 'FR', 'GI', 'GB', 'GE', 'GR', 'HU', 'IS', 'IN', 'ID', 'IE', 'IL', 'IT', 'JP', 'LT', 'LU', 'MK', 'MY', 'MV', 'ML', 'MT', 'MX', 'MC', 'MN', 'ME', 'NL', 'NO', 'PL', 'PT', 'QA', 'RU', 'SM', 'RS', 'SK', 'SI', 'ES', 'SE', 'CH', 'TR', 'US', 'UA', 'UY'],
         },
         shipping_options: [
           {shipping_rate: 'shr_1NXhCKBKUFdv47TESPeFZKdH'},
